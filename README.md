@@ -40,7 +40,7 @@ You should insert information about account in SpaceONE's **Service Account** in
 ---
 
 ## Authentication Overview
-Registered service account on SpaceONE must have certain permissions to collect cloud service data 
+Registered service account on SpaceONE must have certain permissions to collect cloud service data. 
 Please, set authentication privilege for followings:
  
 
